@@ -47,9 +47,11 @@ For Version 1, you may want to override the sizing properties.
 
 You can do something like this:
 
-`Calv1.Labelname.Autosize = False 
-Calv1.Labelname.Height = X
-Calv1.Labelname.Width = Y`
+`Calv1.Labelname.Autosize = False`
+
+`Calv1.Labelname.Height = X`
+
+`Calv1.Labelname.Width = Y`
 
 When V 1.1 is released, the control will be much more styled, and less plain. Until then you are required to override if you don't like the defaults. 
 
