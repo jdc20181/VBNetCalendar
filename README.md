@@ -67,3 +67,10 @@ NO DLL's or .EXE is given in the project, it is the plain jane regular project, 
 Then just follow the steps provided above. 
 
 *YOU WILL NEED TO REBUILD THE PROJECT TO MAKE IT WORK ON INITIAL DOWNLOAD*
+
+
+# CSharp Conversion
+
+I am working on this day to day and it will be released soon!
+
+See the [CSharpCalendar](https://github.com/jdc20181/CSharpCalendar) respo!
