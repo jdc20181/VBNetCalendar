@@ -1,5 +1,4 @@
    Public Sub ReloadCal(ByVal ldate As Date, ByVal Selected As Integer)
-        On Error Resume Next
         Me.clearall()
         MonthName.Text = monthstr(ldate.Month)
         Dim fdate As DayOfWeek = GetFirstOfMonthDay(ldate)
