@@ -1,3 +1,13 @@
+# V. 1.1 Release Date
+
+Scheduled for Mid-late April '17
+
+**Updating**
+
+You will just need to delete the control, add the new DLL with the *same* instructions, and you will be all set!
+
+*It is strongly advised to DELETE the reference to the previous version before adding the new one. Be sure to fix the Initializing on form load, as you will get a error until it is fixed!*
+
 # VBNetCalendar
 A Calendar Control that is large. 
 
