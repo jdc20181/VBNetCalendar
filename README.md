@@ -1,26 +1,18 @@
-# V. 1.1 Release Date
+# About
 
-Scheduled for Mid-late April '17
+This was a small project aimed to create something that doesn't actively exist - that doesn't cost. This is a FREE, open source Easy to use control, that will allow you to view a calendar. You can customize this by downloading the project file, and customize the class, Rebuild, and add the DLL to your project. 
 
-**Updating**
+Version 1.1 of the project will begin soon, it will be a new DLL as I have changed PCs and no longer have the orignal Files. 
 
-You will just need to delete the control, add the new DLL with the *same* instructions, and you will be all set!
 
-*It is strongly advised to DELETE the reference to the previous version before adding the new one. Be sure to fix the Initializing on form load, as you will get a error until it is fixed!*
 
-# VBNetCalendar
-A Calendar Control that is large. 
 
+**Instructions/Updates/Notes**
+
+**Instructions**
 
 The Lib. Is a DLL, simply follow the directions in the Codebank Article [here](http://www.vbforums.com/showthread.php?845535-Large-Calendar-Control&p=5155523#post5155523)
 
-
-
-# Version 1.0
-
- - Initial Release
- 
- - Basic Calendar Control, that is large view. 
 
 
 # License 
@@ -29,17 +21,7 @@ Licensed under [MIT](https://github.com/jdc20181/VBNetCalendar/blob/master/LICEN
 
 Please review license file before using, you need to include the license and my name in a abouts/credits page in your application. 
 
-# Upcoming Changes
 
-  - Adding Border to labels
-  
-  - Removing "AutoSize"
-  
-  - Resizing for better view
-  
-  - Changing `ForeColor` to `BackColor` making it much more visible. 
-  
-  - Changed Color's of components - minus background for your use. 
   
 # Using the DLL
 
